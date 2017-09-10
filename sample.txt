@@ -1,2 +1,2 @@
 file is changed
-second change for commit -a
+second change for commit 
